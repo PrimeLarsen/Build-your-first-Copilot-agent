@@ -1,0 +1,10 @@
+# Copilot Studio extension auth token cache - never commit credentials
+.token_cache*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / tooling
+*.log
+.vscode/*.local.json
